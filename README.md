@@ -14,5 +14,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha 
 https://brunoss2712.github.io
 
 ## 📫 Contato
-- GitHub: https://github.com/BrunoSS2712
+- GitHub: [https://github.com/BrunoSS2712](https://devbrunossz.github.io/brunoss2712.github.io/)
 - Email: brunoss1547@gmail.com
