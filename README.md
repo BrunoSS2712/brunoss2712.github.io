@@ -11,8 +11,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha 
 - JavaScript
 
 ## 🌐 Acesse o site
-[https://github.com/BrunoSS2712](https://devbrunossz.github.io/brunoss2712.github.io/)
+https://devbrunossz.github.io/brunoss2712.github.io/
 
 ## 📫 Contato
-- GitHub: [[https://github.com/BrunoSS2712](https://devbrunossz.github.io/brunoss2712.github.io/)](https://github.com/devbrunossz)
+- GitHub:https://github.com/devbrunossz
 - Email: brunoss1547@gmail.com
